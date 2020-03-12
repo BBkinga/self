@@ -8,6 +8,7 @@ USER-AGENT,*bili*
 DOMAIN-KEYWORD,bilibili
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
+DOMAIN-SUFFIX,lbs.map.qq.com
 DOMAIN-SUFFIX,b23.tv
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
