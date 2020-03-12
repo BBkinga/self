@@ -3,7 +3,6 @@
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,71.am
 # > bilibili
-DOMAIN-SUFFIX,lbs.map.qq.com
 DOMAIN-SUFFIX,bilibili.tv
 USER-AGENT,*bili*
 DOMAIN-KEYWORD,bilibili
