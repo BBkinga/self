@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,71.am
 DOMAIN-SUFFIX,bilibili.tv
 USER-AGENT,*bili*
 DOMAIN-KEYWORD,bilibili
+DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,b23.tv
