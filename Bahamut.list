@@ -3,5 +3,5 @@ USER-AGENT,Anime*,Bahamut
 HOST-SUFFIX,bahamut.com.tw,Bahamut
 HOST-SUFFIX,gamer.com.tw,Bahamut
 HOST-SUFFIX,hinet.net,Bahamut
-HOST,gamer-cds.cdn.hinet.net
-HOST,gamer2-cds.cdn.hinet.net
+HOST,gamer-cds.cdn.hinet.net,Bahamut
+HOST,gamer2-cds.cdn.hinet.net,Bahamut
