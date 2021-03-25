@@ -7,3 +7,7 @@ DOMAIN,ocsp.digicert.com
 DOMAIN,acroipm2.adobe.com
 DOMAIN-SUFFIX,f10.baidu.com
 DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,osapublishing.org
+DOMAIN-SUFFIX,scitation.org
+DOMAIN-SUFFIX,sciencedirect.com
