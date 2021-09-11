@@ -2,7 +2,8 @@
 DOMAIN-SUFFIX,scholar.google.com
 DOMAIN-KEYWORD,scholar.google
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-SUFFIX,services.googleapis.cn
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapis.com
 IP-CIDR,120.232.181.162/32,no-resolve
 IP-CIDR,120.241.147.226/32,no-resolve
 IP-CIDR,120.253.253.226/32,no-resolve
